@@ -105,7 +105,7 @@ int czy_calkowita(double a)
 ```
 
 W poniższym programie, który kopiując wejście na wyjście zastępuje kazdy znak tabulacji przez \t oraz każdy znak \ przez dwa takie znaki, zostały przestawione wiersze. Uporzadkuj je, tak aby powstał działający program.
-
+```c
 #include <stdio.h>
 while ((c=getchar())!=EOF)
 }
@@ -118,6 +118,7 @@ int c;
 putchar(c);
 int main() {
 return 0;
+```
 
 
 
